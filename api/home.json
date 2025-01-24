@@ -1,7 +1,7 @@
 {
     "mainModelList" : [
         {
-            "watchFaceXmlUrl" : "http://skyeeseeker.github.io/watchface/watchface_000001.xml"
+            "watchFaceName" : "watchface_000001"
         }
     ]
 }
